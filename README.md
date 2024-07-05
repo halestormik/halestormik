@@ -2,7 +2,7 @@
 </div>
 <div class="Badges-visiting" align ="center">
 
-<img src="https://huddle.eurostarsoftwaretesting.com/wp-content/uploads/2019/09/Mannual-Testing.jpg"  width="1920" height="240"/>
+<img src="https://huddle.eurostarsoftwaretesting.com/wp-content/uploads/2019/09/Mannual-Testing.jpg"  width="1920" height="640"/>
   <!--<img src="https://komarev.com/ghpvc/?username=Stacyde&style=flat-square&color=228B22" align ="right"/>-->
   </div>
 
