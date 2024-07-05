@@ -1,9 +1,8 @@
 <div class="Images" align ="center">
 </div>
 <div class="Badges-visiting" align ="center">
-![image](https://github.com/halestormik/halestormik/assets/147516686/81c5da4e-2c17-480d-b96f-01aa7a9b64c3)
 
-<<img src="https://www.clipartmax.com/png/full/255-2557186_automation-testers-automation-testers.png"  width="1920" height="240"/>
+<<img src="[https://www.clipartmax.com/png/full/255-2557186_automation-testers-automation-testers.png](https://blog.bydrec.com/hubfs/3%20Benefits%20of%20Outsourcing%20the%20QA%20and%20Testing%20of%20Your%20New%20Programming%20Software.jpg)"  width="1920" height="240"/>
   <!--<img src="https://komarev.com/ghpvc/?username=Stacyde&style=flat-square&color=228B22" align ="right"/>-->
   </div>
 
