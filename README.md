@@ -3,7 +3,7 @@
 <div class="Badges-visiting" align ="center">
 ![image](https://github.com/halestormik/halestormik/assets/147516686/81c5da4e-2c17-480d-b96f-01aa7a9b64c3)
 
-<<img src="[https://get.wallhere.com/photo/cyberpunk-desk-3d-graphics-laptop-1828201.jpg](https://github.com/halestormik/halestormik/assets/147516686/81c5da4e-2c17-480d-b96f-01aa7a9b64c3)"  width="1920" height="240"/>
+<<img src="[[https://get.wallhere.com/photo/cyberpunk-desk-3d-graphics-laptop-1828201.jpg](https://github.com/halestormik/halestormik/assets/147516686/81c5da4e-2c17-480d-b96f-01aa7a9b64c3)](https://ya.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fwww.clipartmax.com%2Fpng%2Ffull%2F255-2557186_automation-testers-automation-testers.png&lr=20193&pos=0&rpt=simage&text=qa)"  width="1920" height="240"/>
   <!--<img src="https://komarev.com/ghpvc/?username=Stacyde&style=flat-square&color=228B22" align ="right"/>-->
   </div>
 
