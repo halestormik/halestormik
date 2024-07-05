@@ -2,7 +2,7 @@
 </div>
 <div class="Badges-visiting" align ="center">
 
-<img src="https://richannel.org/wp-content/uploads/2023/09/Quality-Assurance-in-Business.jpg"  width="1920" height="440"/>
+<img src="https://habiskerja.com/wp-content/uploads/2022/12/Improving-Your-Software-Quality-Assurance-Process-in-2021.webp"  width="1920" height="440"/>
   <!--<img src="https://komarev.com/ghpvc/?username=Stacyde&style=flat-square&color=228B22" align ="right"/>-->
   </div>
 
