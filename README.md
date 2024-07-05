@@ -1,5 +1,5 @@
-<div class="Images" align ="center">
-</div>
+<!--<div class="Images" align ="center">
+</div>-->
 <!--<div class="Badges-visiting" align ="center">-->
 
 <!--<img src="https://get.wallhere.com/photo/cyberpunk-desk-3d-graphics-laptop-1828201.jpg"  width="1920" height="240"/>
