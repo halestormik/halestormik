@@ -20,24 +20,6 @@
 <!--<aside class="Tools">
 <section class="Tools-section">
 <div class="Tools-img" align ="left">
-<h2 class="Tools-title">Инструменты, которые я освоил: </h2>
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://logowiki.net/uploads/logo/p/postman.svg" title="Postman" alt="Postman" width="40" height="40"/>
-  <img src="https://www.digiseller.ru/preview/554839/p1_3426434_98691a2e.png" title="Intellij IDEA" alt="Intellij IDEA" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" title="Selenium" alt="Selenium" width="40" height="40"/>
-  <img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46327/tools_JUnit_color.png" title="JUnit" alt="JUnit" width="40" height="40"/>
-  <img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46322/tools_Java_color.png" title="Java" alt="Java" width="40" height="40"/>
-<img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46306/tools_Docker_color.png" title="Docker" alt="Docker" width="40" height="40"/>
-<img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46328/tools_JIRA_color.png" title="JIRA" alt="JIRA" width="40" height="40"/>
-<img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46300/tools_GitHub_color.png" title="GitHub" alt="GitHub" width="40" height="40"/>
-
-</div>
-</section>
-</aside>-->
-
-<!--<aside class="Tools">
-<section class="Tools-section">
-<div class="Tools-img" align ="left">
 <h2 class="Tools-title">Статистика языков программирования, которые я использую: </h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stacyde&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
@@ -316,3 +298,21 @@
 
 </ol>
 </div>
+
+<aside class="Tools">
+<section class="Tools-section">
+<div class="Tools-img" align ="left">
+<h2 class="Tools-title">Инструменты, которые я освоил: </h2>
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://logowiki.net/uploads/logo/p/postman.svg" title="Postman" alt="Postman" width="40" height="40"/>
+  <img src="https://www.digiseller.ru/preview/554839/p1_3426434_98691a2e.png" title="Intellij IDEA" alt="Intellij IDEA" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" title="Selenium" alt="Selenium" width="40" height="40"/>
+  <img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46327/tools_JUnit_color.png" title="JUnit" alt="JUnit" width="40" height="40"/>
+  <img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46322/tools_Java_color.png" title="Java" alt="Java" width="40" height="40"/>
+<img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46306/tools_Docker_color.png" title="Docker" alt="Docker" width="40" height="40"/>
+<img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46328/tools_JIRA_color.png" title="JIRA" alt="JIRA" width="40" height="40"/>
+<img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46300/tools_GitHub_color.png" title="GitHub" alt="GitHub" width="40" height="40"/>
+
+</div>
+</section>
+</aside>
