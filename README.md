@@ -312,7 +312,7 @@
   <img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46327/tools_JUnit_color.png" title="JUnit" alt="JUnit" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" title="Selenium" alt="Selenium" width="40" height="40"/>
   <img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46306/tools_Docker_color.png" title="Docker" alt="Docker" width="40" height="40"/>
-  <img src=https://42crunch.com/wp-content/uploads/2022/08/Free-Tools-Page-Icons_Visual-Studio-Code-1536x1536.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>
+  <img src="https://42crunch.com/wp-content/uploads/2022/08/Free-Tools-Page-Icons_Visual-Studio-Code-1536x1536.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>
 </div>
 </section>
 </aside>
